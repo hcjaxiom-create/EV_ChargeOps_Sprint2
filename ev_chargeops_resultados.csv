@@ -1,0 +1,9 @@
+sessao_id,usuario,unidade,veiculo,energia_kwh,duracao_horas,tarifa_kwh,custo_sessao,classificacao_ia,resultado_ia,nivel_risco,recomendacao,consumo_previsto_kwh
+1,Carlos,Apto 101,BYD Dolphin,18.4,2.1,0.95,17.479999999999997,1,Normal,BAIXO,Nenhuma ação necessária,17.48
+2,Mariana,Apto 202,Volvo EX30,24.7,3.0,0.95,23.465,1,Normal,BAIXO,Nenhuma ação necessária,23.81
+3,Carlos,Apto 101,BYD Dolphin,15.2,1.8,0.95,14.44,1,Normal,BAIXO,Nenhuma ação necessária,15.37
+4,João,Apto 303,GWM Ora 03,31.5,4.2,0.95,29.924999999999997,-1,Anômala,ALTO,Verificar sessão e consumo imediatamente,32.26
+5,Mariana,Apto 202,Volvo EX30,22.1,2.7,0.95,20.995,1,Normal,BAIXO,Nenhuma ação necessária,21.7
+6,Ana,Apto 404,Renault Kwid E-Tech,12.8,1.6,0.95,12.16,-1,Anômala,MÉDIO,Acompanhar próximas sessões do usuário,13.96
+7,João,Apto 303,GWM Ora 03,29.4,3.8,0.95,27.929999999999996,1,Normal,BAIXO,Nenhuma ação necessária,29.44
+8,Ana,Apto 404,Renault Kwid E-Tech,16.7,2.0,0.95,15.864999999999998,1,Normal,BAIXO,Nenhuma ação necessária,16.77
