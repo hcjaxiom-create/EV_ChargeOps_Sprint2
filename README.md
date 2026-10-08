@@ -81,15 +81,13 @@ A mudança mantém os objetivos funcionais definidos na Sprint 1 e facilita a de
 
 ## Evidências de funcionamento
 
-As evidências estão presentes diretamente no notebook, por meio de:
+As evidências do protótipo estão disponíveis no notebook e nas imagens abaixo:
 
-- tabelas executadas;
-- indicadores;
-- gráficos;
-- classificações de anomalia;
-- níveis de risco;
-- recomendações automáticas;
-- comparação entre consumo real e previsto.
+- `01_painel_gestor.png` - painel consolidado com sessões, consumo, custo e alertas.
+- `02_ia_anomalias.png` - resultado do módulo de IA com classificação de sessões normais e anômalas.
+- `03_previsao_consumo.png` - gráfico comparando consumo real e consumo previsto.
+
+Além das imagens, o arquivo `EV_ChargeOps_Sprint2.ipynb` contém todas as células executadas, tabelas, métricas, gráficos e resultados do protótipo.
 
 ## Possíveis melhorias
 
